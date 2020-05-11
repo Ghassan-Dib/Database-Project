@@ -1,0 +1,394 @@
+*,html, body
+{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+
+.welcome{
+    margin-top: 0px;
+    color: #2d2d2d;
+    font-weight: bold;
+    text-align: center;
+    font-size: 80px;
+}
+
+span{
+    color: #2D9E34;
+}
+
+
+header{
+    height: 120px;
+    line-height: 120px;
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+    background-color: #6D6E76;
+    margin-top: 0px;
+    box-shadow: 0px 0px 17px 0px;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    display: inline-block;
+}
+
+header nav{
+    float: right;
+}
+
+.logo img{
+    margin-top: 5px;
+}
+
+header nav ul li a{
+    padding-right: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    transition: all 0.15s ease-in;
+}
+
+header nav ul li a span{
+    color: #2D9E34;
+}
+
+header nav ul li a:hover{
+    text-decoration: none;
+    color: #2D9E34;
+}
+
+.subscribers .table1{
+    margin-top: 40px;
+}
+
+.subscribers th{
+    color: #2D9E34;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.subscribers td{
+    font-size: 20px;
+}
+
+.subscriber{
+    background-color: #a0a0a0;
+    box-shadow: 0px 0px 17px 0px;
+    background-size: 100% 100%;
+    margin-top: 30px;
+}
+
+.subscriber h2{
+    margin-top: 30px;
+    color: #2d2d2d;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+.border{
+    width: 200px;
+    height: 10px;
+    margin: 40px auto;
+    background: #2D9E34;
+}
+
+.form{
+    max-width: 600px;
+    margin: auto;
+    padding: 0 10px;
+    overflow: hidden;
+}
+
+.contact-form-text{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background: #bababa;
+    padding: 20px 40px;
+    outline: none;
+    color: #2d2d2d;
+    font-size: 20px;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+
+.contact-form-text:focus{
+    box-shadow: 0px 0px 10px 4px #2D9E34;
+}
+
+.contact-form-button{
+    float: right;
+    border: 0;
+    background: #2D9E34;
+    color: #fff;
+    padding: 12px 50px;
+    border-radius: 10px;
+    font-size: 15px;
+    transition: 0.15s ease-in;
+}
+
+.contact-form-button:hover{
+    color: #bababa;
+    background-color: #7aba7e;
+    opacity: 0.9;
+}
+
+.list1{
+    margin-left: 20px;
+    font-weiht: bold;
+}
+
+
+*,html, body
+{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+
+.welcome{
+    margin-top: 0px;
+    color: #2d2d2d;
+    font-weight: bold;
+    text-align: center;
+    font-size: 80px;
+}
+
+span{
+    color: #0000A0;
+}
+
+
+header{
+    height: 120px;
+    line-height: 120px;
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+    background-color: #0000A0;
+    margin-top: 0px;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    display: inline-block;
+}
+
+header nav{
+    float: right;
+}
+
+.logo img{
+    margin-top: 5px;
+}
+
+header nav ul li a{
+    padding-right: 35px;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    transition: all 0.15s ease-in;
+}
+
+header nav ul li a:hover{
+    text-decoration: none;
+    color: #2D9E34;
+}
+
+.subscribers .table1{
+    margin-top: 30px;
+}
+
+.subscribers th{
+    color: #0000A0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.subscriber{
+    background-size: cover;
+        background-attachment: fixed;
+    padding: 40px 0;
+    margin-top: 20px;
+
+}
+
+.subscriber h2{
+    margin-top: 30px;
+    color: #0000A0;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+.border{
+    width: 200px;
+    height: 10px;
+    margin: 40px auto;
+    background: #0000A0;
+}
+
+.form{
+    max-width: 600px;
+    margin: auto;
+    padding: 0 10px;
+    overflow: hidden;
+}
+
+.contact-form-text{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background: #bababa;
+    padding: 20px 40px;
+    outline: none;
+    color: #0000A0;
+    font-size: 20px;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+
+.contact-form-text:focus{
+    box-shadow: 0px 0px 10px 4px #0000A0;
+}
+
+.contact-form-button{
+    float: right;
+    border: 0;
+    background: #0000A0;
+    color: #fff;
+    padding: 12px 50px;
+    border-radius: 10px;
+    font-size: 15px;
+    transition: 0.15s ease-in;
+}
+
+.contact-form-button:hover{
+    color: #bababa;
+    background-color: #7aba7e;
+    opacity: 0.9;
+}
+
+.list1{
+    margin-left: 47px;
+    font-weight: bold;
+}
+
+.hospital{
+    position:absolute;
+    top: 52%;
+    margin-left: 30px;
+
+}
+
+.drop{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    display: inline-block;
+    margin: 30px 0;
+    padding: 10px 50px 10px 10px;
+    background: url(arrow_white_down_625758.png) no-repeat 95% center;
+    background-size: 20px;
+    background-color: #0000A0;
+    border: 0;
+    color: #fff;
+    font-weight:600;
+    border-radius: 10px;
+    font-size: 18px;
+    transition: 0.15s ease-in;
+    cursor: pointer;
+}
+
+select:active, select {
+  outline: none;
+}
+
+select:focus > option:checked  {
+    cursor: pointer;
+    background-color: #2D9E34;
+    color: white;
+    outline: none;
+}
+
+
+.drop option{
+    cursor: pointer;
+    background-color: white;
+    color: #0000A0;
+    outline: none;
+}
+
+.srch{
+    margin-top: -75px;
+    font-weight: bold;
+    font-size: 70px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+	color: #0000A0;
+}
+
+.search-text{
+    display: inline-block;
+    width: 50%;
+    box-sizing: border-box;
+    margin: 16px 16px 16px 16px;
+    border: 0;
+    background: #bababa;
+    padding: 10px 30px;
+    outline: none;
+    color: #2d2d2d;
+    font-size: 18px;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+
+.search-text:focus{
+    box-shadow: 0px 0px 10px 4px #0000A0;
+}
+
+.search-button{
+    display: inline-block;
+    border: 0;
+    background: #2D9E34;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+    transition: 0.15s ease-in;
+}
+
+.search-button:hover{
+    color: white;
+    background-color: #7aba7e;
+    opacity: 0.8;
+}
+
+.brdr{
+    width: 900px;
+    height: 10px;
+    margin: 40px auto;
+    background: #0000A0;
+}
+
+.r{
+    font-size: 70px;
+    font-weight: bold;
+    color: #0000A0;
+    
+}
